@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning React & Spring Boot!
 - 📫 How to reach me : ongchen9788@gmail.com.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OngChenwen)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OngChenwen&show_icons=true&theme=tokyonight)
+
 
 
 <!---
