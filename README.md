@@ -4,6 +4,8 @@
 - 📫 How to reach me : ongchen9788@gmail.com.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OngChenwen&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OngChenwen&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
