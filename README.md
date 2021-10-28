@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OngChenwen.
-- 👀 I’m interested in full stack web application using Java.
+- 👀 I’m interested in developing full-stack web application using Java.
 - 🌱 I’m currently learning React & Spring Boot!
 - 📫 How to reach me : ongchen9788@gmail.com.
 
